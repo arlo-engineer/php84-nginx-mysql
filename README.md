@@ -1,7 +1,7 @@
 # 使用技術
 
-![Laravel](https://img.shields.io/badge/Laravel-11-brightgreen.svg)
-![PHP](https://img.shields.io/badge/PHP-8.3-blue.svg)
+![Laravel](https://img.shields.io/badge/Laravel-12-brightgreen.svg)
+![PHP](https://img.shields.io/badge/PHP-8.4-blue.svg)
 ![MariaDB](https://img.shields.io/badge/MySQL-8.0.33-blue.svg)
 ![nginx](https://img.shields.io/badge/nginx-1.27-blue.svg)
 ![Docker](https://img.shields.io/badge/Docker-26.1.4-blue.svg)
